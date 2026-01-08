@@ -1,0 +1,40 @@
+[error]	2025-07-15 18:44:38.494933[Thread 0x00007fb6ab3fdcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 18:44:38.952867[Thread 0x00007fb6ab3fdcc0]:06:44:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-15 18:44:38.957200[Thread 0x00007fb6ab3fdcc0]:06:44:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-15 18:44:38.957827[Thread 0x00007fb6ab3fdcc0]:06:44:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-07-15 18:44:39.039111[Thread 0x00007fb6ab3fdcc0]:06:44:39 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-07-15 18:44:40.379919[Thread 0x00007fb6ab3fdcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 18:44:40.410377[Thread 0x00007fb6ab3fdcc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-07-15 18:44:41.515927[Thread 0x00007fb4a54ac6c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 1000 milliseconds
+[Error 28]
+[error]	2025-07-15 18:44:42.432496[Thread 0x00007fb6ab3fdcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-07-15 18:45:08.431209[Thread 0x00007fb6ab3fdcc0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.103 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-07-15 18:45:38.767043[Thread 0x00007fb6ab3fdcc0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.103 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-07-15 18:45:44.335013[Thread 0x00007fb6ab3fdcc0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.103 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-07-15 18:46:52.942743[Thread 0x00007fb6ab3fdcc0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.103 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-07-15 18:47:00.329835[Thread 0x00007fb6ab3fdcc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-07-15 18:47:04.001522[Thread 0x00007fb62d5f96c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[warning]	2025-07-15 18:47:05.787729[Thread 0x00007fb62d5f96c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-07-15 18:51:10.990887[Thread 0x00007fb6ab3fdcc0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.103 port 80: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-07-15 18:51:26.166620[Thread 0x00007fb6ab3fdcc0]:OctoPrint: Error getting version: , HTTP 502, body: `<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.22.1</center>
+</body>
+</html>
+`
+[warning]	2025-07-15 19:10:46.849085[Thread 0x00007fb62d5f96c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[warning]	2025-07-15 19:10:47.211392[Thread 0x00007fb62d5f96c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[warning]	2025-07-15 19:10:47.414687[Thread 0x00007fb62d5f96c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,

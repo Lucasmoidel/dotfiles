@@ -1,0 +1,58 @@
+[error]	2025-12-09 23:49:36.334686[Thread 0x00007fb9c5ff56c0]:Unable to open connection to spacenavd
+[error]	2025-12-09 23:49:36.334941[Thread 0x00007fb9c4ff36c0]:Not primary owner of DBus name - probably another OrcaSlicer instance is running.
+[error]	2025-12-09 23:49:36.334968[Thread 0x00007fb9c4ff36c0]:Dbus Messages listening terminating.
+[error]	2025-12-09 23:49:37.573059[Thread 0x00007fba674dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 23:49:38.254243[Thread 0x00007fba674dcf00]:11:49:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-09 23:49:38.302615[Thread 0x00007fba674dcf00]:11:49:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-09 23:49:38.310520[Thread 0x00007fba674dcf00]:11:49:38 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-09 23:49:38.486826[Thread 0x00007fba674dcf00]:11:49:38 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-09 23:49:43.548145[Thread 0x00007fba674dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 23:49:43.622247[Thread 0x00007fba674dcf00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-09 23:49:44.270016[Thread 0x00007fb9724036c0]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-12-09 23:49:47.459702[Thread 0x00007fba674dcf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 23:50:35.734523[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-09 23:50:42.063272[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:50:46.895859[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":76001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-33.000000,"bed_shrink_y":-33.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-09 23:51:50.697662[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:51:50.757471[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:51:50.832621[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:51:52.299876[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:51:53.300073[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:51:59.810623[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:52:00.621858[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":76001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-33.000000,"bed_shrink_y":-33.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-09 23:52:03.905282[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:52:04.728901[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:52:08.040372[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-09 23:52:10.479025[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:52:19.821288[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:52:19.857905[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-09 23:52:56.769750[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:53:12.045616[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:53:14.836739[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-09 23:53:21.711435[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:53:25.022274[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 23:53:26.415493[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:53:36.263357[Thread 0x00007fb9a63fa6c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-12-09 23:53:38.355709[Thread 0x00007fb9714016c0]:gcode path conflicts found between Levers.stl and legplate_20deg_Right.stl
+[error]	2025-12-09 23:53:59.035243[Thread 0x00007fb9714016c0]:gcode path conflicts found between Paddles (standard).stl and Levers.stl
+[error]	2025-12-09 23:57:35.701109[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-09 23:57:35.713783[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-09 23:57:37.022633[Thread 0x00007fb9de1fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-10 00:41:03.661969[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:05.404950[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:06.581144[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:09.278680[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:09.567809[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:10.868434[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:11.419470[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:13.119432[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:14.071287[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:16.436976[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:16.640159[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:20.780446[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:21.494919[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:23.546423[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:24.998268[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:27.439711[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:28.117567[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 00:41:29.753371[Thread 0x00007fba674dcf00]:tree_sel_change_delayedcan not find page with current selection 

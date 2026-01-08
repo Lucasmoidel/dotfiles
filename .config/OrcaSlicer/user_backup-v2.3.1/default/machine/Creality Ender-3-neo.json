@@ -1,0 +1,39 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_extruding": [
+        "10000",
+        "500"
+    ],
+    "machine_max_acceleration_retracting": [
+        "10000",
+        "1000"
+    ],
+    "machine_max_acceleration_x": [
+        "10000",
+        "500"
+    ],
+    "machine_max_acceleration_y": [
+        "10000",
+        "500"
+    ],
+    "machine_max_speed_x": [
+        "425",
+        "500"
+    ],
+    "machine_max_speed_y": [
+        "425",
+        "500"
+    ],
+    "machine_start_gcode": "START_PRINT BED=[bed_temperature] EXTRUDER=[temperature] FIRST_LAYER_EXTRUDER=[first_layer_temperature]\n",
+    "name": "Creality Ender-3-neo",
+    "print_host": "10.0.0.103",
+    "printer_settings_id": "Creality Ender-3-neo",
+    "retract_length_toolchange": [
+        "3"
+    ],
+    "version": "2.1.1.0"
+}

@@ -1,0 +1,13 @@
+{
+    "brim_type": "no_brim",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.16mm Optimal @Creality Ender3 0.4",
+    "is_custom_defined": "0",
+    "name": "0.16mm Optimal @Creality Ender3 0.4 - Copy",
+    "print_settings_id": "0.16mm Optimal @Creality Ender3 0.4 - Copy",
+    "sparse_infill_pattern": "lightning",
+    "support_style": "default",
+    "support_type": "tree(auto)",
+    "version": "2.3.0.3"
+}

@@ -1,0 +1,10 @@
+{
+    "filament_settings_id": [
+        "AD5M PLA"
+    ],
+    "from": "User",
+    "inherits": "Flashforge Generic PLA",
+    "is_custom_defined": "0",
+    "name": "AD5M PLA",
+    "version": "2.3.1.10"
+}

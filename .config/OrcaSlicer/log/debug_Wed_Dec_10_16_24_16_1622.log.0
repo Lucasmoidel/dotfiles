@@ -1,0 +1,50 @@
+[error]	2025-12-10 16:24:19.194135[Thread 0x00007f89115f76c0]:Unable to open connection to spacenavd
+[error]	2025-12-10 16:24:20.457837[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-10 16:24:21.193128[Thread 0x00007f89a6777f00]:04:24:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-10 16:24:21.200377[Thread 0x00007f89a6777f00]:04:24:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-10 16:24:21.207061[Thread 0x00007f89a6777f00]:04:24:21 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-10 16:24:21.412972[Thread 0x00007f89a6777f00]:04:24:21 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-10 16:24:25.590452[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-10 16:24:25.647268[Thread 0x00007f89a6777f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-10 16:24:26.168340[Thread 0x00007f87a4aad6c0]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-12-10 16:24:27.789562[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 16:24:46.031831[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 16:25:03.417148[Thread 0x00007f87dcbf86c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.248 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-12-10 16:25:14.745215[Thread 0x00007f87dcbf86c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.248 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-12-10 17:18:44.565587[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 17:18:44.638598[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:18:50.358253[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:18:50.623439[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:18:50.659753[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 17:19:02.740018[Thread 0x00007f89105f56c0]:Detected missing Voronoi vertex, input polygons will be rotated back and forth.
+[error]	2025-12-10 17:42:10.459286[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:42:20.290639[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:42:20.531161[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:42:20.561731[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 17:42:31.471191[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-10 17:42:31.503490[Thread 0x00007f89717fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-10 17:42:34.057367[Thread 0x00007f89717fe6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-10 19:08:46.258544[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 19:08:51.394186[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:08:51.637950[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:08:51.671231[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:08:53.279754[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:09:01.392645[Thread 0x00007f87dcbf86c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.248 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-12-10 19:09:11.952587[Thread 0x00007f87dcbf86c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.248 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-12-10 19:10:59.408620[Thread 0x00007f87dcbf86c0]:OctoPrint: Error getting version: curl:Couldn't connect to server:
+Failed to connect to 10.0.0.248 port 7125: No route to host
+[Error 7], HTTP 0, body: ``
+[error]	2025-12-10 19:18:41.372957[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 19:18:47.896223[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:18:48.088878[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:18:48.120993[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-10 19:47:52.790280[Thread 0x00007f89a6777f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-10 19:47:52.858764[Thread 0x00007f89a6777f00]:tree_sel_change_delayedcan not find page with current selection 

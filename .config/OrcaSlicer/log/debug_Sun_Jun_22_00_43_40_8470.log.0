@@ -1,0 +1,64 @@
+[error]	2025-06-22 00:43:42.238564[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-22 00:43:42.586974[Thread 0x00007f303f301cc0]:12:43:42 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-22 00:43:42.590364[Thread 0x00007f303f301cc0]:12:43:42 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-22 00:43:42.591007[Thread 0x00007f303f301cc0]:12:43:42 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-22 00:43:42.664821[Thread 0x00007f303f301cc0]:12:43:42 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-22 00:43:43.768955[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-22 00:43:43.795409[Thread 0x00007f303f301cc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-22 00:43:44.720693[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:46:48.507324[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:47:37.025099[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-22 00:47:44.175841[Thread 0x00007f30025fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-06-22 00:50:43.070420[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:04.114316[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:04.115147[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:04.482414[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:04.759820[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:05.026497[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:05.246121[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:05.548859[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:05.754440[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:06.082799[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:06.333092[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:06.572750[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:06.966379[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:07.281046[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:07.467879[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:07.655918[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:07.848994[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:08.046566[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:08.222555[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:08.413064[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:08.606895[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:09.214348[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.036855[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.626536[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.666524[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.705501[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.746186[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.785874[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.826123[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.866066[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.905629[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.945840[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:11.986255[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.026007[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.066343[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.194653[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.204295[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.214394[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.258352[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.273597[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.305948[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.307077[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.346490[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 00:53:12.347442[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:24:49.738608[Thread 0x00007f303f301cc0]:load_files: can not find valid path, return directly
+[error]	2025-06-22 01:25:37.542698[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:25:37.543515[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:25:47.876416[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:25:47.877207[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:25:48.420538[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:25:48.421395[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:26:00.956364[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-22 01:26:00.957159[Thread 0x00007f303f301cc0]:calc_exclude_triangles:Unable to create exclude triangles

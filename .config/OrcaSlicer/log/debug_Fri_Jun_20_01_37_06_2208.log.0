@@ -1,0 +1,13 @@
+[error]	2025-06-20 01:37:07.552033[Thread 0x00007f9db6edccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-20 01:37:07.889280[Thread 0x00007f9db6edccc0]:01:37:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 01:37:07.893169[Thread 0x00007f9db6edccc0]:01:37:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 01:37:07.893959[Thread 0x00007f9db6edccc0]:01:37:07 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 01:37:07.984271[Thread 0x00007f9db6edccc0]:01:37:07 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-20 01:37:09.134624[Thread 0x00007f9db6edccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-20 01:37:09.154429[Thread 0x00007f9db6edccc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-20 01:37:11.719568[Thread 0x00007f9db6edccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 01:39:21.832494[Thread 0x00007f9db6edccc0]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-06-20 01:46:32.554689[Thread 0x00007f9db6edccc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 01:47:04.430254[Thread 0x00007f9bbf7fe6c0]:###copy_file from /tmp/orcaslicer_model/Fri_Jun_20/01_46_32#2208#61/Metadata/.2208.0.gcode to /run/media/OrcaToleranceTest_PLA_25m25s.gcode.tmp failed, error: Permission denied 
+[error]	2025-06-20 01:47:04.433182[Thread 0x00007f9bbf7fe6c0]:call_process:got other exception
+[error]	2025-06-20 01:57:01.218642[Thread 0x00007f9db6edccc0]:calc_exclude_triangles:Unable to create exclude triangles

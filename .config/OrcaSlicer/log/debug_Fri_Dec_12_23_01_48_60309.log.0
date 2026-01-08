@@ -1,0 +1,54 @@
+[error]	2025-12-12 23:01:49.992726[Thread 0x00007ff4a5df46c0]:Unable to open connection to spacenavd
+[error]	2025-12-12 23:01:50.713177[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-12 23:01:51.119301[Thread 0x00007ff53e7a8f00]:11:01:51 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 23:01:51.127452[Thread 0x00007ff53e7a8f00]:11:01:51 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 23:01:51.132482[Thread 0x00007ff53e7a8f00]:11:01:51 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-12 23:01:51.248460[Thread 0x00007ff53e7a8f00]:11:01:51 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-12 23:01:54.464177[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-12 23:01:54.499250[Thread 0x00007ff53e7a8f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-12 23:01:55.714439[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:01:59.750077[Thread 0x00007ff4419726c0]:Error getting: `check_new_version_sf`: HTTP 0, curl:Timeout was reached:
+Resolving timed out after 5000 milliseconds
+[Error 28]
+[warning]	2025-12-12 23:02:06.104974[Thread 0x00007ff4b61fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-12 23:02:06.118209[Thread 0x00007ff53e7a8f00]:postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[warning]	2025-12-12 23:02:06.118232[Thread 0x00007ff53e7a8f00]:postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[warning]	2025-12-12 23:02:06.625777[Thread 0x00007ff53e7a8f00]:restart_background_process, Line 5502: ui jobs running, return false
+[error]	2025-12-12 23:02:52.471898[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:00.135207[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:00.735795[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:04.888090[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:09.783517[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:11.156098[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:13.210904[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-12 23:03:14.547408[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-12 23:03:14.556247[Thread 0x00007ff4b61fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-12 23:03:14.567919[Thread 0x00007ff53e7a8f00]:postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-12-12 23:03:14.642485[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-12 23:03:14.742828[Thread 0x00007ff4b61fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-12 23:03:14.756291[Thread 0x00007ff53e7a8f00]:postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-12-12 23:05:13.514828[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:13.786654[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:14.004645[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:14.394617[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:14.695019[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:14.879395[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.479900[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.512125[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.562103[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.595151[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.628520[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.678717[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.712138[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.762789[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.795767[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:15.828505[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:05:18.583059[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:06:03.715346[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:06:04.729483[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-12 23:06:17.034329[Thread 0x00007ff4b61fc6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-12 23:06:17.049451[Thread 0x00007ff53e7a8f00]:postprocess_bed_index_for_current_plate: can not be arranged inside plate!
+[error]	2025-12-12 23:06:18.787438[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-12 23:06:41.802251[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 02:45:46.099434[Thread 0x00007ff53e7a8f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 02:45:46.137656[Thread 0x00007ff53e7a8f00]:tree_sel_change_delayedcan not find page with current selection 

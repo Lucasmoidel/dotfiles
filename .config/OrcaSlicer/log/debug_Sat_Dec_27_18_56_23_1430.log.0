@@ -1,0 +1,10 @@
+[error]	2025-12-27 18:56:24.617411[Thread 0x00007f3c0cbf66c0]:Unable to open connection to spacenavd
+[error]	2025-12-27 18:56:25.912614[Thread 0x00007f3cab5f9ec0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-27 18:56:26.647558[Thread 0x00007f3cab5f9ec0]:06:56:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-27 18:56:26.655619[Thread 0x00007f3cab5f9ec0]:06:56:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-27 18:56:26.662201[Thread 0x00007f3cab5f9ec0]:06:56:26 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-27 18:56:26.795331[Thread 0x00007f3cab5f9ec0]:06:56:26 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-27 18:56:31.080390[Thread 0x00007f3cab5f9ec0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-27 18:56:31.137700[Thread 0x00007f3cab5f9ec0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-27 19:01:05.402825[Thread 0x00007f3cab5f9ec0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-27 19:10:46.569550[Thread 0x00007f3c1cffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,

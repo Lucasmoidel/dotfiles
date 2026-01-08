@@ -1,0 +1,10 @@
+[error]	2025-06-20 01:58:19.237417[Thread 0x00007fbb3377acc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-20 01:58:19.454504[Thread 0x00007fbb3377acc0]:01:58:19 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 01:58:19.459112[Thread 0x00007fbb3377acc0]:01:58:19 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-06-20 01:58:19.462772[Thread 0x00007fbb3377acc0]:01:58:19 AM: Warning: Error running JavaScript: about:blank:1:9: ReferenceError: Can't find variable: __wxOut0
+[warning]	2025-06-20 01:58:19.513974[Thread 0x00007fbb3377acc0]:01:58:19 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-06-20 01:58:20.615503[Thread 0x00007fbb3377acc0]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-06-20 01:58:20.638465[Thread 0x00007fbb3377acc0]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-06-20 01:58:22.609670[Thread 0x00007fbb3377acc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 02:19:58.734012[Thread 0x00007fbb3377acc0]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-06-20 02:44:42.490917[Thread 0x00007fbb3377acc0]:calc_exclude_triangles:Unable to create exclude triangles

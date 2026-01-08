@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "inherits": "Flashforge Adventurer 5M 0.4 Nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "END_PRINT\n",
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]\nM190 S[bed_temperature_initial_layer_single]\nM104 S[nozzle_temperature_initial_layer]",
+    "name": "AD5M 0.4",
+    "print_host": "10.0.0.248:7125",
+    "print_host_webui": "10.0.0.248/mainsail",
+    "printer_settings_id": "AD5M 0.4",
+    "version": "2.3.1.10"
+}

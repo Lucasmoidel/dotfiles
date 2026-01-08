@@ -1,0 +1,18 @@
+[error]	2025-10-15 21:50:40.034223[Thread 0x00007f4f55df76c0]:Unable to open connection to spacenavd
+[error]	2025-10-15 21:50:41.197957[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 21:50:41.843195[Thread 0x00007f4ff2efff00]:09:50:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-15 21:50:41.860854[Thread 0x00007f4ff2efff00]:09:50:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-15 21:50:41.868103[Thread 0x00007f4ff2efff00]:09:50:41 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-15 21:50:42.048798[Thread 0x00007f4ff2efff00]:09:50:42 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-15 21:50:45.275787[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 21:50:45.336656[Thread 0x00007f4ff2efff00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-15 21:50:46.214539[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:50:46.461468[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 22:02:36.685805[Thread 0x00007f4ff2efff00]:load_files: can not find valid path, return directly
+[error]	2025-10-15 22:02:44.730235[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 22:02:47.760854[Thread 0x00007f4ff2efff00]:load_files: can not find valid path, return directly
+[error]	2025-10-15 22:03:09.600263[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 22:03:25.916479[Thread 0x00007f4f65ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-10-15 22:18:30.605787[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 22:18:33.161193[Thread 0x00007f4f65ffb6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-10-15 22:24:58.621658[Thread 0x00007f4ff2efff00]:calc_exclude_triangles:Unable to create exclude triangles

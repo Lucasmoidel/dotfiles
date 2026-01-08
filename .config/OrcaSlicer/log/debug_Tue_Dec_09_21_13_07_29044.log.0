@@ -1,0 +1,52 @@
+[error]	2025-12-09 21:13:08.496288[Thread 0x00007fcb36ffd6c0]:Unable to open connection to spacenavd
+[error]	2025-12-09 21:13:09.595526[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 21:13:09.960226[Thread 0x00007fcbf47a5f00]:09:13:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-09 21:13:09.965908[Thread 0x00007fcbf47a5f00]:09:13:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-09 21:13:09.970157[Thread 0x00007fcbf47a5f00]:09:13:09 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-09 21:13:10.058061[Thread 0x00007fcbf47a5f00]:09:13:10 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-09 21:13:11.511831[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 21:13:11.545736[Thread 0x00007fcbf47a5f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-09 21:13:12.078676[Thread 0x00007fc9effff6c0]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-12-09 21:13:18.069392[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 21:15:02.056662[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits fdm_filament_abs for Z-Bolt ABS @base
+[error]	2025-12-09 21:15:02.056681[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/Z-Bolt/filament/Z-Bolt ABS @base.json
+[error]	2025-12-09 21:15:02.060754[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits fdm_filament_abs for Chuanying Generic ABS
+[error]	2025-12-09 21:15:02.060765[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/Chuanying/filament/Chuanying Generic ABS.json
+[error]	2025-12-09 21:15:02.212240[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits AliZ PA-CF @base for AliZ PA-CF @P1-X1
+[error]	2025-12-09 21:15:02.212256[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/BBL/filament/AliZ/AliZ PA-CF @P1-X1.json
+[error]	2025-12-09 21:15:02.400629[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits Generic ABS @System for Sovol SV06 ACE ABS
+[error]	2025-12-09 21:15:02.400644[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/Sovol/filament/Sovol SV06 ACE ABS.json
+[error]	2025-12-09 21:15:02.405065[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits fdm_filament_tpu for TwoTrees Generic 95A TPU @SK1
+[error]	2025-12-09 21:15:02.405078[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/TwoTrees/filament/TwoTrees Generic 95A TPU @SK1.json
+[error]	2025-12-09 21:15:02.406678[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits fdm_filament_common for fdm_filament_peek
+[error]	2025-12-09 21:15:02.406685[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/MagicMaker/filament/fdm_filament_peek.json
+[error]	2025-12-09 21:15:02.501092[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits PolyTerra PLA @base for PolyTerra PLA @0.2 nozzle
+[error]	2025-12-09 21:15:02.501117[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/Snapmaker/filament/PolyTerra PLA @0.2 nozzle.json
+[error]	2025-12-09 21:15:02.699236[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits Generic ABS @System for Generic ABS @MyToolChanger
+[error]	2025-12-09 21:15:02.699267[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/Custom/filament/Generic ABS @MyToolChanger.json
+[error]	2025-12-09 21:15:02.702021[Thread 0x00007fcbf47a5f00]:operator(): can not find inherits Generic ABS @System for Lulzbot 2.85mm ABS
+[error]	2025-12-09 21:15:02.702062[Thread 0x00007fcbf47a5f00]:load_vendor_configs_from_json, got error when parse filament setting from /opt/orca-slicer/resources/profiles/Lulzbot/filament/Lulzbot 2.85mm ABS.json
+[error]	2025-12-09 21:15:02.893143[Thread 0x00007fcbf47a5f00]:can not find parent for config /home/lucas/.config/OrcaSlicer/user/default/process/ender-3-neo-2.0mm.json!
+[error]	2025-12-09 21:15:02.893240[Thread 0x00007fcbf47a5f00]:can not find parent for config /home/lucas/.config/OrcaSlicer/user/default/process/0.20mm.json!
+[error]	2025-12-09 21:15:02.893294[Thread 0x00007fcbf47a5f00]:can not find parent for config /home/lucas/.config/OrcaSlicer/user/default/process/0.16mm Optimal @Creality Ender3 0.4 - Copy.json!
+[error]	2025-12-09 21:15:02.893338[Thread 0x00007fcbf47a5f00]:can not find parent for config /home/lucas/.config/OrcaSlicer/user/default/process/0.20mm Standard @Creality Ender3 - Copy.json!
+[error]	2025-12-09 21:15:02.895873[Thread 0x00007fcbf47a5f00]:can not find parent for config /home/lucas/.config/OrcaSlicer/user/default/machine/Creality Ender-3-neo.json!
+[error]	2025-12-09 21:15:02.895956[Thread 0x00007fcbf47a5f00]:can not find parent for config /home/lucas/.config/OrcaSlicer/user/default/machine/Ender-3.json!
+[warning]	2025-12-09 21:15:02.955406[Thread 0x00007fcbf47a5f00]:save_current_preset: save preset Flashforge Flashforge Adventurer 5M Pro 0.4 nozzle , with detach
+[error]	2025-12-09 21:15:02.964145[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 21:15:11.677536[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-09 21:15:20.714283[Thread 0x00007fcbf47a5f00]:09:15:20 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-09 21:15:38.905305[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-09 21:16:02.518392[Thread 0x00007fcbf47a5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 21:18:50.316743[Thread 0x00007fcbf47a5f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-09 21:20:02.357579[Thread 0x00007fcbf47a5f00]:OctoPrint: Error getting version: , HTTP 404, body: `<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+<BODY><H1>404 Not Found</H1>
+The requested URL was not found
+</BODY></HTML>
+`
+[error]	2025-12-09 21:20:15.964985[Thread 0x00007fcbf47a5f00]:OctoPrint: Error getting version: , HTTP 404, body: `<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD>
+<BODY><H1>404 Not Found</H1>
+The requested URL was not found
+</BODY></HTML>
+`
+[error]	2025-12-09 21:40:00.988269[Thread 0x00007fcbf47a5f00]:calc_exclude_triangles:Unable to create exclude triangles

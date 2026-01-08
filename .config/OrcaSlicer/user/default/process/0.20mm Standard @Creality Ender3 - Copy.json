@@ -1,0 +1,17 @@
+{
+    "elefant_foot_compensation": "0.5",
+    "elefant_foot_compensation_layers": "5",
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Creality Ender3 - Copy",
+    "print_settings_id": "0.20mm Standard @Creality Ender3 - Copy",
+    "seam_position": "nearest",
+    "sparse_infill_density": "10%",
+    "sparse_infill_pattern": "lightning",
+    "support_style": "default",
+    "support_threshold_angle": "20",
+    "support_type": "tree(auto)",
+    "tree_support_top_rate": "5%",
+    "version": "2.1.1.0"
+}

@@ -1,0 +1,35 @@
+[error]	2025-11-16 00:19:23.785860[Thread 0x00007f2a5ebfb6c0]:Unable to open connection to spacenavd
+[error]	2025-11-16 00:19:25.536408[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-16 00:19:26.432681[Thread 0x00007f2b13faff00]:12:19:26 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-16 00:19:26.446475[Thread 0x00007f2b13faff00]:12:19:26 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-16 00:19:26.452732[Thread 0x00007f2b13faff00]:12:19:26 AM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-11-16 00:19:26.483710[Thread 0x00007f2b13faff00]:12:19:26 AM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-11-16 00:19:29.865667[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-16 00:19:29.927300[Thread 0x00007f2b13faff00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-11-16 00:19:30.718448[Thread 0x00007f2a1870b6c0]:Error getting: `check_new_version_sf`: HTTP 503, 
+[error]	2025-11-16 00:19:31.725922[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-16 00:19:40.123590[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-11-16 00:19:40.439405[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-16 00:19:40.576641[Thread 0x00007f2b13faff00]:validate_preset: preset_name Anycubic Kobra 3 V2 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-16 00:19:40.576692[Thread 0x00007f2b13faff00]:validate_presets:file_name MainBody.3mf, found the printer preset not inherit from system
+[warning]	2025-11-16 00:19:40.576709[Thread 0x00007f2b13faff00]:validate_preset: preset_name Anycubic PLA @Anycubic Kobra 3 V2 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-16 00:19:40.576715[Thread 0x00007f2b13faff00]:validate_presets:file_name MainBody.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-11-16 00:19:40.576726[Thread 0x00007f2b13faff00]:validate_preset: preset_name Anycubic PLA @Anycubic Kobra 3 V2 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-16 00:19:40.576730[Thread 0x00007f2b13faff00]:validate_presets:file_name MainBody.3mf, found the filament 2 preset not inherit from system
+[warning]	2025-11-16 00:19:40.576736[Thread 0x00007f2b13faff00]:validate_preset: preset_name Anycubic PLA @Anycubic Kobra 3 V2 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-16 00:19:40.576741[Thread 0x00007f2b13faff00]:validate_presets:file_name MainBody.3mf, found the filament 3 preset not inherit from system
+[warning]	2025-11-16 00:19:40.576746[Thread 0x00007f2b13faff00]:validate_preset: preset_name Anycubic PLA @Anycubic Kobra 3 V2 0.4 nozzle, no inherit, set to not found
+[warning]	2025-11-16 00:19:40.576751[Thread 0x00007f2b13faff00]:validate_presets:file_name MainBody.3mf, found the filament 4 preset not inherit from system
+[warning]	2025-11-16 00:19:40.576756[Thread 0x00007f2b13faff00]:validate_presets:file_name MainBody.3mf, found self defined presets, count 2
+[error]	2025-11-16 00:20:19.651180[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-16 00:20:27.977968[Thread 0x00007f2a86ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":250.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[warning]	2025-11-16 00:20:29.581662[Thread 0x00007f2a86ffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":30.000000,"clearance_height_to_lid":250.000000,"clearance_radius":65.000000,"printable_height":260.000000,
+[error]	2025-11-16 00:20:48.003401[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-11-16 00:21:25.303725[Thread 0x00007f2a4fbfe6c0]:Influence area could not be increased! Data about the Influence area: Radius: 1367452 at layer: 36 NextTarget: 36 Distance to top: 47 Elephant foot increases 0 use_min_xy_dist false to buildplate true gracious true safe true until move 0 
+ Parent 0x7f2a70078bc0: Radius: 1367452 at layer: 37 NextTarget: 37 Distance to top: 46 Elephant foot increases 0  use_min_xy_dist false to buildplate true gracious true safe true until move 0
+[error]	2025-11-16 00:22:06.941466[Thread 0x00007f2a857ff6c0]:OctoPrint: Error getting version: curl:Timeout was reached:
+Connection timed out after 10001 milliseconds
+[Error 28], HTTP 0, body: ``
+[error]	2025-11-16 00:28:23.658584[Thread 0x00007f2b13faff00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-11-16 00:28:33.155983[Thread 0x00007f2a86ffd6c0]:Arrange full params: {"min_obj_distance":47001000,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":1,"bed_shrink_x":-18.500000,"bed_shrink_y":-18.500000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-11-16 15:23:41.443116[Thread 0x00007f2b13faff00]:calc_exclude_triangles:Unable to create exclude triangles

@@ -1,0 +1,63 @@
+[error]	2025-12-13 21:47:54.308785[Thread 0x00007f2042bfb6c0]:Unable to open connection to spacenavd
+[error]	2025-12-13 21:47:54.773498[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 21:47:55.059443[Thread 0x00007f20f95b3f00]:09:47:55 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-13 21:47:55.063923[Thread 0x00007f20f95b3f00]:09:47:55 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-13 21:47:55.067031[Thread 0x00007f20f95b3f00]:09:47:55 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-12-13 21:47:55.135970[Thread 0x00007f20f95b3f00]:09:47:55 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-12-13 21:47:57.143673[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 21:47:57.173474[Thread 0x00007f20f95b3f00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-12-13 21:47:58.510407[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:48:42.909753[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:48:47.698078[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 21:48:51.470397[Thread 0x00007f20f95b3f00]:validate_preset: preset_name Bambu Lab A1 mini 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-13 21:48:51.470421[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found the printer preset not inherit from system
+[warning]	2025-12-13 21:48:51.470430[Thread 0x00007f20f95b3f00]:validate_preset: preset_name Bambu PLA Matte @BBL A1M, no inherit, set to not found
+[warning]	2025-12-13 21:48:51.470432[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-13 21:48:51.470435[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found self defined presets, count 2
+[error]	2025-12-13 21:48:53.036999[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:48:59.968244[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:54:11.082913[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:54:30.698405[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:54:32.421326[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 21:54:33.256617[Thread 0x00007f20f95b3f00]:validate_preset: preset_name Bambu Lab A1 mini 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-13 21:54:33.256644[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found the printer preset not inherit from system
+[warning]	2025-12-13 21:54:33.256658[Thread 0x00007f20f95b3f00]:validate_preset: preset_name Bambu PLA Matte @BBL A1M, no inherit, set to not found
+[warning]	2025-12-13 21:54:33.256662[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-13 21:54:33.256667[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found self defined presets, count 2
+[error]	2025-12-13 21:54:34.274755[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:54:46.144424[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 21:54:49.397181[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:54:51.606105[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:54:56.425630[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:54:57.663752[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:55:00.392698[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:55:12.613496[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:55:13.652720[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:55:20.471659[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:55:29.815260[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 21:56:05.635235[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 22:07:19.627500[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 22:07:20.873158[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 22:07:21.782023[Thread 0x00007f20f95b3f00]:validate_preset: preset_name Bambu Lab A1 mini 0.4 nozzle, no inherit, set to not found
+[warning]	2025-12-13 22:07:21.782045[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found the printer preset not inherit from system
+[warning]	2025-12-13 22:07:21.782051[Thread 0x00007f20f95b3f00]:validate_preset: preset_name Bambu PLA Matte @BBL A1M, no inherit, set to not found
+[warning]	2025-12-13 22:07:21.782053[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found the filament 1 preset not inherit from system
+[warning]	2025-12-13 22:07:21.782057[Thread 0x00007f20f95b3f00]:validate_presets:file_name steam-no-ams.3mf, found self defined presets, count 2
+[error]	2025-12-13 22:07:22.619273[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 22:07:34.852828[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 22:07:43.480282[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:07:44.291789[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:13:19.347034[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 22:13:19.377092[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:13:27.415244[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-12-13 22:13:28.935847[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:13:28.962484[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:13:28.976053[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:13:32.371523[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[warning]	2025-12-13 22:13:34.231711[Thread 0x00007f206affd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[warning]	2025-12-13 22:14:42.735739[Thread 0x00007f206affd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-13 22:14:45.654249[Thread 0x00007f20f95b3f00]:tree_sel_change_delayedcan not find page with current selection 
+[error]	2025-12-13 22:14:57.125273[Thread 0x00007f2005cc66c0]:gcode path conflicts found between ft891-rails-mic-mount.STL_1 and ft891-rails-mic-mount.STL_2
+[error]	2025-12-13 23:36:26.715896[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-12-13 23:36:34.137238[Thread 0x00007f206affd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":27.000000,"clearance_height_to_lid":150.000000,"clearance_radius":76.000000,"printable_height":220.000000,
+[error]	2025-12-14 01:20:30.523755[Thread 0x00007f20f95b3f00]:calc_exclude_triangles:Unable to create exclude triangles

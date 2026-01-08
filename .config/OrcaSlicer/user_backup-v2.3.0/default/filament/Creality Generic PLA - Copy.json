@@ -1,0 +1,16 @@
+{
+    "filament_retraction_length": [
+        "2"
+    ],
+    "filament_retraction_speed": [
+        "50"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA - Copy"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA - Copy",
+    "version": "2.1.1.0"
+}

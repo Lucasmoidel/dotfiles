@@ -1,0 +1,23 @@
+[error]	2025-10-15 21:36:25.443546[Thread 0x00007f6ba23fa6c0]:Unable to open connection to spacenavd
+[error]	2025-10-15 21:36:27.720707[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 21:36:28.402247[Thread 0x00007f6c593adf00]:09:36:28 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-15 21:36:28.440313[Thread 0x00007f6c593adf00]:09:36:28 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-15 21:36:28.449342[Thread 0x00007f6c593adf00]:09:36:28 PM: Warning: Error running JavaScript: Unsupported result type
+[warning]	2025-10-15 21:36:28.577408[Thread 0x00007f6c593adf00]:09:36:28 PM: Warning: Error running JavaScript: Unsupported result type
+[error]	2025-10-15 21:36:31.874182[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 21:36:31.936879[Thread 0x00007f6c593adf00]:get_version, get_version not supported,return 00.00.00.00!
+[error]	2025-10-15 21:37:07.399858[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:37:37.627558[Thread 0x00007f6c593adf00]:load_files: can not find valid path, return directly
+[error]	2025-10-15 21:37:39.983363[Thread 0x00007f6c593adf00]:load_files: can not find valid path, return directly
+[error]	2025-10-15 21:37:53.562241[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:28.450640[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:28.746402[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:29.421592[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:50.476860[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:51.088038[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:51.364152[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:51.597992[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:51.778929[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[error]	2025-10-15 21:38:52.102559[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
+[warning]	2025-10-15 21:39:04.918455[Thread 0x00007f6bcaffd6c0]:Arrange full params: {"min_obj_distance":0,"accuracy":1.000000,"parallel":1,"allow_rotations":0,"do_final_align":1,"allow_multi_materials_on_same_plate":1,"avoid_extrusion_cali_region":1,"is_seq_print":0,"bed_shrink_x":1.000000,"bed_shrink_y":1.000000,"brim_skirt_distance":0.000000,"clearance_height_to_rod":25.000000,"clearance_height_to_lid":25.000000,"clearance_radius":47.000000,"printable_height":250.000000,
+[error]	2025-10-15 21:41:26.383170[Thread 0x00007f6c593adf00]:calc_exclude_triangles:Unable to create exclude triangles
