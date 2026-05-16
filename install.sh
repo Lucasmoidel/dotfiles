@@ -1,5 +1,8 @@
 #!/bin/bash
 
+distro=$(eval grep 'NAME="Arch Linux"' /etc/os-release | grep -v "PRETTY" | sed 's/NAME=//' | sed  's/"//g')
+
+
 cp * ~/ -r
 cp .* ~/ -r
 cd ~/
